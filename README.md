@@ -1,1 +1,4 @@
 # -Salesforce-Phishing-Awareness-Training-Tracker
+Phishing attacks remain one of the most common cybersecurity threats, with many data breaches caused by employees unintentionally clicking malicious links or failing to report suspicious emails. Organizations often conduct phishing simulation campaigns to test awareness, but tracking results is manual and fragmented, relying on spreadsheets and email. This leads to poor visibility into employee performance, delayed follow-ups, and inconsistent training compliance.
+
+There is a need for a centralized system that can log phishing simulation results, automatically assign remedial training to employees who fail, track completion status, and provide real-time dashboards for HR and security teams. Such a system would strengthen employee awareness, ensure accountability, and help organizations proactively reduce human-driven security risks.
