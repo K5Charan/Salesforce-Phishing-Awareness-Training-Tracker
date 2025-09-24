@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "Phisher",
+  "name": "Salesforce-Phishing-Awareness-Training-Tracker",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "64.0"
