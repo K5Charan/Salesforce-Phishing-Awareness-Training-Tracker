@@ -1,0 +1,11 @@
+Employee Name,Email,Department,Status,Overall Training Score,Training Status,Record Owner
+Alice Johnson,alice.johnson@example.com,HR,Active,85,Completed,yourname@example.com
+Bob Smith,bob.smith@example.com,Finance,Active,70,In Progress,yourname@example.com
+Charlie Patel,charlie.patel@example.com,IT,Active,55,Assigned,yourname@example.com
+Diana Lopez,diana.lopez@example.com,Marketing,Active,90,Completed,yourname@example.com
+Ethan Brown,ethan.brown@example.com,Finance,Inactive,60,Overdue,yourname@example.com
+Fiona Davis,fiona.davis@example.com,IT,Active,80,Completed,yourname@example.com
+George Wilson,george.wilson@example.com,HR,Active,75,In Progress,yourname@example.com
+Hannah Lee,hannah.lee@example.com,Operations,Active,88,Completed,yourname@example.com
+Ian White,ian.white@example.com,Marketing,Active,65,Assigned,yourname@example.com
+Julia Green,julia.green@example.com,Security,Active,95,Completed,yourname@example.com
