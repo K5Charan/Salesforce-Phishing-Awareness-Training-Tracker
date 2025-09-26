@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Completion_Quick_View</fullName>
+    <fields>Employee__c</fields>
+    <fields>Assignment__c</fields>
+    <fields>Completion_Date__c</fields>
+    <fields>Score__c</fields>
+    <label>Completion Quick View</label>
+</CompactLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Training_Module_Quick_View</fullName>
+    <fields>Name</fields>
+    <fields>Module_Name__c</fields>
+    <fields>Module_Type__c</fields>
+    <fields>Difficulty_Level__c</fields>
+    <label>Training Module Quick View</label>
+</CompactLayout>
