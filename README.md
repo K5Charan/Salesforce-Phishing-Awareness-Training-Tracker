@@ -1,2 +1,2 @@
-# -Salesforce-Phishing-Awareness-Training-Tracker
+# Salesforce-Phishing-Awareness-Training-Tracker
 Phishing remains a leading cybersecurity threat, with employees often failing simulations due to lack of awareness. Organizations rely on spreadsheets and manual processes to track results and training compliance, leading to poor visibility, delayed follow-ups, and inconsistent reporting. A centralized Salesforce-based solution is needed to streamline result tracking, automate training assignments, and provide real-time compliance insights.
